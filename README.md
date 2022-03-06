@@ -1,1 +1,0 @@
-# clojure-resouce-learn
