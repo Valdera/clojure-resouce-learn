@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  db:
+    container_name: clj_auth_db
+    image: postgres
+    ports: 
+      - 5430:5432
+    environment:
+      POSTGRES_USR: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: clj_auth
+
