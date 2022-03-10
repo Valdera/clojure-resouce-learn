@@ -18,4 +18,10 @@
   - [Udemy - Communicating Sequential Processes with core.async](https://www.udemy.com/course/communicating-sequential-processes-with-coreasync/)
 - Kafka streams using clojure
   - [Blog - Kafka Streams, the Clojure way](https://engineering.fundingcircle.com/blog/2019/08/27/kafka-streams-the-clojure-way/)
-  - [Repository - Gojek Ziggurat](https://github.com/gojek/ziggurat)
+- Useful library
+  - [Repository - Ring for HTTP Abstraction](https://github.com/ring-clojure/ring) 
+  - [Repository - HoneySQL for SQL](https://github.com/seancorfield/honeysql)
+  - [Repository - Monger for MongoDB](https://github.com/michaelklishin/monger)
+  - [Repository - Carmine for Redis](https://github.com/ptaoussanis/carmine) 
+  - [Repository - Ziggurat for Kafka Consumer](https://github.com/gojek/ziggurat)
+  - [Repository - Mount for Application State](https://github.com/tolitius/mount)
